@@ -12,8 +12,8 @@ This project is a classic Tic Tac Toe game, fully functional and interactive. It
 
 ## Demo
 
-You can see a demonstration of the application in action [Tic-Tac-Toe](https://ibrahim-003.github.io/twitter-card/)
+You can see a demonstration of the application in action [Tic-Tac-Toe](https://ibrahim-003.github.io/tic-tac-toe/)
 
-## Capturas de Pantalla
+## Screenshots
 
 ![Presentacion desktop](./public/desktop-view.png)
